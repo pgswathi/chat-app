@@ -15,19 +15,19 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 https://talk-a-tive.herokuapp.com/
 
-![](https://github.com/pgswathi/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![]https://github.com/pgswathi/chat-app/blob/main/screenshots/notification.PNG
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/pgswathi/mern-chat-app
+  git clone https://github.com/pgswathi/chat-app
 ```
 
 Go to the project directory
 
 ```bash
-  cd mern-chat-app
+  cd chat-app
 ```
 
 Install dependencies
@@ -58,7 +58,7 @@ Start the Client
 # Features
 
 ### Authenticaton
-![](https://github.com/pgswathi/mern-chat-app/blob/master/screenshots/login.PNG)
+![]https://github.com/pgswathi/chat-app/blob/main/screenshots/login.PNG
 ![](https://github.com/pgswathi/mern-chat-app/blob/master/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
 ![](https://github.com/pgswathi/mern-chat-app/blob/master/screenshots/real-time.PNG)
