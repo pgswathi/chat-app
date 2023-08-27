@@ -58,7 +58,8 @@ Start the Client
 # Features
 
 ### Authenticaton
-![]https://github.com/pgswathi/chat-app/blob/main/screenshots/login.PNG
+https://github.com/pgswathi/chat-app/blob/main/screenshots/login.PNG?raw=true
+
 ![](https://github.com/pgswathi/mern-chat-app/blob/master/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
 ![](https://github.com/pgswathi/mern-chat-app/blob/master/screenshots/real-time.PNG)
