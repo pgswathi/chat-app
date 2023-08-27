@@ -12,8 +12,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 **Database:** Mongo DB
   
 ## Demo
-
-https://talk-a-tive.herokuapp.com/
+https://message-planet.onrender.com
 
 ![](https://github.com/pgswathi/chat-app/blob/main/screenshots/notification.PNG)
 ## Run Locally
