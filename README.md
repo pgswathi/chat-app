@@ -15,7 +15,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 https://talk-a-tive.herokuapp.com/
 
-![]https://github.com/pgswathi/chat-app/blob/main/screenshots/notification.PNG
+![](https://github.com/pgswathi/chat-app/blob/main/screenshots/notification.PNG)
 ## Run Locally
 
 Clone the project
@@ -58,25 +58,23 @@ Start the Client
 # Features
 
 ### Authenticaton
-https://github.com/pgswathi/chat-app/blob/main/screenshots/login.PNG?raw=true
+![](https://github.com/pgswathi/chat-app/blob/main/screenshots/login.PNG)
 
-![](https://github.com/pgswathi/mern-chat-app/blob/master/screenshots/signup.PNG)
+![](https://github.com/pgswathi/chat-app/blob/main/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
-![](https://github.com/pgswathi/mern-chat-app/blob/master/screenshots/real-time.PNG)
-### One to One chat
-![](https://github.com/pgswathi/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
+![](https://github.com/pgswathi/chat-app/blob/main/screenshots/real-time.PNG)
 ### Search Users
-![](https://github.com/pgswathi/mern-chat-app/blob/master/screenshots/search.PNG)
+![](https://github.com/pgswathi/chat-app/blob/main/screenshots/search.PNG)
 ### Create Group Chats
-![](https://github.com/pgswathi/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
+![](https://github.com/pgswathi/chat-app/blob/main/screenshots/create%20group.PNG)
 ### Notifications 
-![](https://github.com/pgswathi/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/pgswathi/chat-app/blob/main/screenshots/notification.PNG)
 ### Add or Remove users from group
-![](https://github.com/pgswathi/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
-### View Other user Profile
-![](https://github.com/pgswathi/mern-chat-app/blob/master/screenshots/profile.PNG)
+![](https://github.com/pgswathi/chat-app/blob/main/screenshots/update%20%26%20leave%20group.PNG)
+### View user Profile
+![](https://github.com/pgswathi/chat-app/blob/main/screenshots/profile.PNG)
 ## Made By
 
-- [@Swathi](https://github.com/pgswathi)
+- [Swathi P G](https://github.com/pgswathi)
 
   
